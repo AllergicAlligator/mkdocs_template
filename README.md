@@ -11,6 +11,8 @@ To use this template from github directly:
 
 ## Using git
 
+To use git command tool:
+
 1. git clone this template
 2. create a new repo from your github account
 3. git remote add your github repo to your clone
